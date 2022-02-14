@@ -13,10 +13,7 @@ body{
     margin: 0;
     width: 1100px;
     height: 1240px;
-   
-   
 }
-
 /* Header */
 .images{
     background-color: #4EA0FF;
@@ -31,7 +28,9 @@ body{
     padding-top: 40px;
     padding-left: 5px;
 }
+
 /* Main */
+/* Title */
 h1{
     font-size: 45px;
     margin-bottom: 0px;
@@ -55,10 +54,30 @@ a{
 .foto{
    margin: 0px;
    font-size: 14px; 
-
 }
+/* Description */
 ul{
     padding-left: 20px;
    
 }
+/* Table */
+.table{
+    margin-top: 30px;
+}
+table{
+    border-collapse: collapse;
+}
+th{
+    background-color: #20A9E5;
+    color: white;
+    text-decoration: solid;
+}
+.width_table{
+    width:  50%;
+}
+.color_table{
+    background-color: #B1E5F2;
+}
+
+
 /* Footer */
