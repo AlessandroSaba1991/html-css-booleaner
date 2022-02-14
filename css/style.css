@@ -13,6 +13,8 @@ body{
     margin: 0;
     width: 1100px;
     height: 1240px;
+   
+   
 }
 
 /* Header */
@@ -53,5 +55,10 @@ a{
 .foto{
    margin: 0px;
    font-size: 14px; 
+
+}
+ul{
+    padding-left: 20px;
+   
 }
 /* Footer */
