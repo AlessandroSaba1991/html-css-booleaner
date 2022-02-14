@@ -4,12 +4,15 @@
 FFFF3F testo evidenziato
 20A9E5 sfondo titolo tabella
 B1E5F2 colore sfondo tabella
+9A9A9A grigio data
 */
 
 /* Initial */
 
 body{
     margin: 0;
+    width: 1100px;
+    height: 1240px;
 }
 
 /* Header */
@@ -19,6 +22,7 @@ body{
     background-size: contain;
     height: 100px;
     
+    
 }
 .logo{
     width: 200px;
@@ -26,7 +30,28 @@ body{
     padding-left: 5px;
 }
 /* Main */
+h1{
+    font-size: 45px;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+.autore{
+ color: #9A9A9A;
+ margin: 0px; 
+ font-size: 20px;  
+}
+a{
+    color: #70C8EE;
+    text-decoration: none;
+}
+.data{
+    color: #9A9A9A;
+    margin-top: 0px;
+    font-size: 14px; 
 
-
-
+}
+.foto{
+   margin: 0px;
+   font-size: 14px; 
+}
 /* Footer */
