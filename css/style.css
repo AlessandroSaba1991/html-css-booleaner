@@ -78,6 +78,23 @@ th{
 .color_table{
     background-color: #B1E5F2;
 }
-
-
 /* Footer */
+.suggerimenti{
+    color: #9A9A9A;
+    font-size: 14px;
+    margin-top: 40px;
+}
+.img_footer{
+    display: block;
+    padding-bottom: 15px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.top-left{
+    position: absolute;
+    top: 8px;
+    left: 16px; 
+} 
